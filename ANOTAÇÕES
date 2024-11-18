@@ -1,0 +1,5 @@
+php artisan make:model Pokemon -mc // utilizado para criar model, migration e controller
+
+ctrl D - para selecionar varios registro com o mesmo nome
+
+shitf tab para voltar a identação
